@@ -41,7 +41,7 @@ if search:
         allowed_trains, allowed_types = get_allowed_trains_and_types(from_station)
 
         results = []
-        for offset in range(24):  
+        for offset in range(12):  
             hour = (dt_selected.hour + offset) % 24
             hour_str = f"{hour:02d}"
             try:
