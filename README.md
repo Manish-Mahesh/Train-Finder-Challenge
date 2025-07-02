@@ -33,3 +33,9 @@ A Python-based application that searches and finds the best multi-hop ICE train 
 4.  Add your DB API credentials in the secrets file. 
     CLIENT_ID = "your-client-id"
     API_KEY = "your-api-key"
+
+
+## Live Demo
+
+Try the app live here:  
+[https://train-finder-challenge.streamlit.app/](https://train-finder-challenge.streamlit.app/)
