@@ -1,0 +1,8 @@
+# Ignore secrets files
+.env
+secrets.toml
+
+
+.venv/
+__pycache__/
+*.pyc
